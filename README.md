@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 💻 My Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=YohnWang&show_icons=true&count_private=True)
+![Github stats](https://github-readme-stats.vercel.app/api?username=YohnWang&show_icons=true&count_private=true&theme=default&bg_color=30,ffffff,f2568f)
 
 ## 🌱 Learning
 I’m currently learning ray tracing.It's very funny.The project is in [this repo](https://github.com/YohnWang/ray-tracing)
@@ -34,3 +34,5 @@ I am interesting in
 - c++,now I use it to learn ray tracing,it's a good language.
 - python,I use it to simulate task dispatching and scheduling for my research.
 - java,I have learned it in 2015,but never use it for any project.
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YohnWang&exclude_repo=YohnWang.github.io)
