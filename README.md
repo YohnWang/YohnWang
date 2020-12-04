@@ -33,6 +33,6 @@ I am interesting in
 - c,this is my first programming language,I use it longest.
 - c++,now I use it to learn ray tracing,it's a good language.
 - python,I use it to simulate task dispatching and scheduling for my research.
-- java,I have learned it in 2015,but never use it for any project.
+
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YohnWang&exclude_repo=YohnWang.github.io)
