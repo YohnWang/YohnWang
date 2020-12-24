@@ -31,7 +31,7 @@ I am interesting in
 
 ## Language
 - c,this is my first programming language,I use it longest.
-- c++,now I use it to learn ray tracing,it's a good language.
+- c++,now I use it to learn ray tracing.
 - python,I use it to simulate task dispatching and scheduling for my research.
 
 
