@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm about to graduate in 2021.
+I'm working on device application software development by linux c.
 
 <!--
 **YohnWang/YohnWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YohnWang&show_icons=true&count_private=true&theme=default&bg_color=30,ffffff,f2568f)
 
 ## 🌱 Learning
-I’m currently learning ray tracing.It's very funny.The project is in [this repo](https://github.com/YohnWang/ray-tracing)
+I’m currently learning c++20
 
 
 <!-- 
@@ -30,9 +30,9 @@ I am interesting in
 -->
 
 ## Language
-- c,this is my first programming language,I use it longest.
-- c++,now I use it to learn ray tracing.
-- python,I use it to simulate task dispatching and scheduling for my research.
+- c, proficient.
+- c++, competent.
+- python, advanced beginner.
 
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YohnWang&exclude_repo=YohnWang.github.io)
